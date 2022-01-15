@@ -1,0 +1,7 @@
+DIGITAL HANDSHAKE
+
+How to start project
+
+- We used Expo and React native to build the app so you can simply extract the source code into a new folder
+  and open a terminal and type "yarn start" or "npm install" and all the dependancies stored in the package.JSON file
+  will be downloaded
